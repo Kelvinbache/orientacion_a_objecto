@@ -12,3 +12,4 @@ const user = {
 console.log(user);
 
 // {}-> literamente estamos haciendo un objecto
+// las propiedades describe un objecto
